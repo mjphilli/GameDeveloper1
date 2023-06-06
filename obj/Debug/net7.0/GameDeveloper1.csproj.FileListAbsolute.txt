@@ -1,0 +1,15 @@
+F:\Users\Mike\Documents\Coding Dojo\dojo_assignments\c#\GameDeveloper1\bin\Debug\net7.0\GameDeveloper1.exe
+F:\Users\Mike\Documents\Coding Dojo\dojo_assignments\c#\GameDeveloper1\bin\Debug\net7.0\GameDeveloper1.deps.json
+F:\Users\Mike\Documents\Coding Dojo\dojo_assignments\c#\GameDeveloper1\bin\Debug\net7.0\GameDeveloper1.runtimeconfig.json
+F:\Users\Mike\Documents\Coding Dojo\dojo_assignments\c#\GameDeveloper1\bin\Debug\net7.0\GameDeveloper1.dll
+F:\Users\Mike\Documents\Coding Dojo\dojo_assignments\c#\GameDeveloper1\bin\Debug\net7.0\GameDeveloper1.pdb
+F:\Users\Mike\Documents\Coding Dojo\dojo_assignments\c#\GameDeveloper1\obj\Debug\net7.0\GameDeveloper1.csproj.AssemblyReference.cache
+F:\Users\Mike\Documents\Coding Dojo\dojo_assignments\c#\GameDeveloper1\obj\Debug\net7.0\GameDeveloper1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\Mike\Documents\Coding Dojo\dojo_assignments\c#\GameDeveloper1\obj\Debug\net7.0\GameDeveloper1.AssemblyInfoInputs.cache
+F:\Users\Mike\Documents\Coding Dojo\dojo_assignments\c#\GameDeveloper1\obj\Debug\net7.0\GameDeveloper1.AssemblyInfo.cs
+F:\Users\Mike\Documents\Coding Dojo\dojo_assignments\c#\GameDeveloper1\obj\Debug\net7.0\GameDeveloper1.csproj.CoreCompileInputs.cache
+F:\Users\Mike\Documents\Coding Dojo\dojo_assignments\c#\GameDeveloper1\obj\Debug\net7.0\GameDeveloper1.dll
+F:\Users\Mike\Documents\Coding Dojo\dojo_assignments\c#\GameDeveloper1\obj\Debug\net7.0\refint\GameDeveloper1.dll
+F:\Users\Mike\Documents\Coding Dojo\dojo_assignments\c#\GameDeveloper1\obj\Debug\net7.0\GameDeveloper1.pdb
+F:\Users\Mike\Documents\Coding Dojo\dojo_assignments\c#\GameDeveloper1\obj\Debug\net7.0\GameDeveloper1.genruntimeconfig.cache
+F:\Users\Mike\Documents\Coding Dojo\dojo_assignments\c#\GameDeveloper1\obj\Debug\net7.0\ref\GameDeveloper1.dll
